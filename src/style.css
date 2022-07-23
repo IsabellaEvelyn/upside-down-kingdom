@@ -1,0 +1,53 @@
+body {
+  background: radial-gradient(
+    circle at -8.9% 51.2%,
+    rgb(112, 0, 0) 3%,
+    rgb(185, 0, 0) 16%,
+    rgb(221, 36, 36) 15%,
+    rgb(146, 26, 26) 24%,
+    rgb(0, 0, 0) 27%,
+    rgb(37, 57, 70) 75%
+  );
+  margin-bottom: 100px;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 27px;
+  color: rgb(165, 17, 17);
+}
+p {
+  text-align: center;
+  font-size: 15px;
+  font-family: monospace;
+  color: #ffff;
+}
+em {
+  font-size: 7px;
+  text-decoration: underline;
+}
+li {
+  line-height: 40px;
+  font-family: PT Mono, monospace;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  color: #ffff;
+}
+strong {
+  color: rgb(165, 17, 17);
+}
+hr {
+  margin: 30px 100px;
+}
+footer {
+  color: rgb(255, 255, 255);
+  font-size: x-small;
+  background-color: rgb(53, 65, 73);
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
